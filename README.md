@@ -54,7 +54,7 @@ To set up the Shopping List App, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Cornel-MIT/Redux-App.git
+   git clone 
    cd shopping-list-app
 
 2. **Install dependencies:**
@@ -72,8 +72,8 @@ To set up the Shopping List App, follow these steps:
 
 ## Images
 
-![ Login ](src/images/Login.png)
+![ Login ](src/images/)
 
-![ Register ](src/images/Register.png)
+![ Register ](src/images/)
 
-![ Home ](src/images/HomePage.png)
+![ Home ](src/images/)
